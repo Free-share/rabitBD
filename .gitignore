@@ -2,5 +2,5 @@
 .idea/
 conf/*
 release/
-manifest.json
+manifest*.json
 assets/
