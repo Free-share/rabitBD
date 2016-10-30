@@ -1,0 +1,6 @@
+
+.idea/
+conf/*
+release/
+manifest.json
+assets/
