@@ -34,7 +34,8 @@ gulp.task('css-build', function() {
     };
 
     var manifest = {
-        "path": config.manifestFile
+        "path": config.manifestFile,
+        "merge": true
     };
 
     return gulp.src(cssGlob)
